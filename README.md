@@ -29,3 +29,9 @@ The project is designed to be modular and extensible, allowing additional vulner
 This Web Vulnerability Scanner has practical applications in web security testing, penetration testing basics, and secure application development. It helps students understand how attackers exploit vulnerabilities and how developers can prevent such attacks by validating input and following secure coding practices.
 
 In conclusion, the Web Vulnerability Scanner project demonstrates how Python can be used to build a simple yet effective security tool. It provides hands-on experience with web technologies, HTTP communication, and cybersecurity concepts. The project is ideal for students learning ethical hacking, web security, and Python programming using Python IDLE.
+
+OUTPUT
+
+<img width="1919" height="994" alt="Image" src="https://github.com/user-attachments/assets/6406042c-6879-4ff3-b684-703f7bbb6c30" />
+<img width="1914" height="1015" alt="Image" src="https://github.com/user-attachments/assets/d5f8fd81-d9eb-4105-8224-266f344162cf" />
+<img width="1919" height="1019" alt="Image" src="https://github.com/user-attachments/assets/ba282f2a-d7ad-4e13-a085-af3f12ab4538" />
